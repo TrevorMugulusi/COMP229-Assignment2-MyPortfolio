@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 300" width="480" height="300" role="img" aria-label="A web page shown inside a browser window">
+  <rect width="480" height="300" fill="#0f172a" />
+  <rect x="90" y="45" width="300" height="210" rx="8" fill="#1e2a40" stroke="#3a4a68" stroke-width="2" />
+  <rect x="90" y="45" width="300" height="32" rx="8" fill="#243352" />
+  <rect x="90" y="68" width="300" height="9" fill="#243352" />
+  <circle cx="108" cy="61" r="4" fill="#60a5fa" />
+  <circle cx="122" cy="61" r="4" fill="#3a4a68" />
+  <rect x="140" y="56" width="110" height="10" rx="5" fill="#151d2e" stroke="#3a4a68" />
+
+  <rect x="108" y="95" width="264" height="46" rx="6" fill="#60a5fa" />
+  <rect x="126" y="113" width="150" height="9" rx="4.5" fill="#0f172a" />
+
+  <rect x="108" y="155" width="80" height="60" rx="6" fill="#243352" />
+  <rect x="200" y="155" width="80" height="60" rx="6" fill="#243352" />
+  <rect x="292" y="155" width="80" height="60" rx="6" fill="#243352" />
+  <rect x="124" y="171" width="48" height="7" rx="3.5" fill="#60a5fa" />
+  <rect x="216" y="171" width="48" height="7" rx="3.5" fill="#60a5fa" />
+  <rect x="308" y="171" width="48" height="7" rx="3.5" fill="#60a5fa" />
+  <rect x="124" y="189" width="48" height="6" rx="3" fill="#48597a" />
+  <rect x="216" y="189" width="48" height="6" rx="3" fill="#48597a" />
+  <rect x="308" y="189" width="48" height="6" rx="3" fill="#48597a" />
+
+  <rect x="108" y="228" width="200" height="8" rx="4" fill="#48597a" />
+</svg>

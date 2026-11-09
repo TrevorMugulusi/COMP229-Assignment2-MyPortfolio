@@ -1,0 +1,16 @@
+# Netlify configuration.
+# The SPA rewrite is required so React Router routes such as /projects resolve
+# on a hard refresh instead of returning a 404.
+
+[build]
+  command = "npm run build"
+  publish = "dist"
+
+[build.environment]
+  NODE_VERSION = "20"
+
+# `/*` sends every unknown path to index.html and lets React Router handle it.
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200

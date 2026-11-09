@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 300" width="480" height="300" role="img" aria-label="A relational database with two linked tables">
+  <rect width="480" height="300" fill="#0f172a" />
+  <rect x="180" y="40" width="120" height="70" rx="8" fill="#1e2a40" stroke="#3a4a68" stroke-width="2" />
+  <rect x="180" y="70" width="120" height="2" fill="#3a4a68" />
+  <rect x="196" y="54" width="52" height="7" rx="3.5" fill="#60a5fa" />
+  <rect x="196" y="80" width="80" height="6" rx="3" fill="#48597a" />
+  <rect x="196" y="92" width="62" height="6" rx="3" fill="#48597a" />
+
+  <rect x="70" y="175" width="130" height="70" rx="8" fill="#1e2a40" stroke="#3a4a68" stroke-width="2" />
+  <rect x="70" y="205" width="130" height="2" fill="#3a4a68" />
+  <rect x="86" y="189" width="48" height="7" rx="3.5" fill="#60a5fa" />
+  <rect x="86" y="215" width="80" height="6" rx="3" fill="#48597a" />
+
+  <rect x="280" y="175" width="130" height="70" rx="8" fill="#1e2a40" stroke="#3a4a68" stroke-width="2" />
+  <rect x="280" y="205" width="130" height="2" fill="#3a4a68" />
+  <rect x="296" y="189" width="44" height="7" rx="3.5" fill="#60a5fa" />
+  <rect x="296" y="215" width="76" height="6" rx="3" fill="#48597a" />
+
+  <path d="M240 110v40H135v25" fill="none" stroke="#60a5fa" stroke-width="2" />
+  <path d="M240 150h105v25" fill="none" stroke="#60a5fa" stroke-width="2" />
+</svg>
